@@ -1,0 +1,11 @@
+name: Reawards
+version: 1.1.1
+main: me.ozaii.reawards.Reawards
+api-version: 1.17
+prefix: Reawards
+authors: [ ozaii ]
+api: spigot
+commands:
+  oduller:
+    description: odul komutu.
+    usage: /oduller
